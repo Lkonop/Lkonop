@@ -1,0 +1,21 @@
+{
+    "name": "cypress",
+    "version": "1.0.0",
+    "description": "Automated Software Testing with Cypress",
+    "main": "index.js",
+    "scripts": {
+        "cy:open": "cypress open",
+        "cy:run": "cypress run"
+    },
+    "keywords": [
+        "testing",
+        "cypress",
+        "automation"
+    ],
+    "author": "Lkonop",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^9.2.1",
+        "prettier": "^2.5.1"
+    }
+}
